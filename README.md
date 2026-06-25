@@ -14,6 +14,8 @@ An end-to-end data engineering pipeline designed to bridge the gap between histo
 ## System Architecture
 - **System diagram :**
 https://drive.google.com/file/d/1yJDWJ__X1mAq2eWVvyUucI2CeNXXsL4-/view?usp=sharing
+- **Tableau Dashboard :**
+  <img width="1280" height="919" alt="photo_2026-06-25 13 28 44" src="https://github.com/user-attachments/assets/92dd3570-76cb-4074-aa24-2b12577a141c" />
 
 ## Tech Stack
 - **Languages**: Python, SQL, PySpark
