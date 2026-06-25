@@ -14,7 +14,7 @@ An end-to-end data engineering pipeline designed to bridge the gap between histo
 ## System Architecture
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages**: Python, SQL, PySpark
 - **Big Data & Processing**: Apache Spark (Micro-batching)
 - **Database**: AWS RDS (Microsoft SQL Server)
