@@ -12,7 +12,8 @@ An end-to-end data engineering pipeline designed to bridge the gap between histo
 - **ML Model**: Utilized **Random Forest** for high-precision fraud classification, specifically optimized to handle the extreme class imbalance inherent in financial datasets.
 
 ## System Architecture
-
+- **System diagram :**
+https://drive.google.com/file/d/1yJDWJ__X1mAq2eWVvyUucI2CeNXXsL4-/view?usp=sharing
 
 ## Tech Stack
 - **Languages**: Python, SQL, PySpark
